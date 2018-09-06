@@ -1,0 +1,70 @@
+{
+    "DataVersion": 0,
+    "Entities": [
+        {
+            "ambientLight": {
+                "ambientURL": "http://mpassets.highfidelity.com/1cbf7de7-e272-4ae6-aa1e-0c88968d5204-v1/OverbrightSunny.jpg"
+            },
+            "ambientLightMode": "enabled",
+            "clientOnly": false,
+            "created": "2018-09-04T13:55:37Z",
+            "dimensions": {
+                "blue": 241.04867553710938,
+                "green": 139.129638671875,
+                "red": 217.05462646484375,
+                "x": 217.05462646484375,
+                "y": 139.129638671875,
+                "z": 241.04867553710938
+            },
+            "flyingAllowed": false,
+            "ghostingAllowed": false,
+            "hazeMode": "disabled",
+            "id": "{e7bd6ed0-b1e2-486b-9818-de2b79c3da9c}",
+            "keyLight": {
+                "castShadows": true,
+                "color": {
+                    "blue": 204,
+                    "green": 239,
+                    "red": 255
+                },
+                "direction": {
+                    "blue": -0.46984627842903137,
+                    "green": -0.866025447845459,
+                    "red": 0.1710100919008255,
+                    "x": 0.1710100919008255,
+                    "y": -0.866025447845459,
+                    "z": -0.46984627842903137
+                },
+                "intensity": 2
+            },
+            "keyLightMode": "enabled",
+            "lastEdited": 1536089274526862,
+            "lastEditedBy": "{a9881037-09e0-4aea-a2b9-8178734b88dd}",
+            "name": "Overbright Sunny",
+            "owningAvatarID": "{00000000-0000-0000-0000-000000000000}",
+            "queryAACube": {
+                "scale": 352.95074462890625,
+                "x": -176.47537231445312,
+                "y": -176.47537231445312,
+                "z": -176.47537231445312
+            },
+            "rotation": {
+                "w": 0.6696727275848389,
+                "x": -1.52587890625e-05,
+                "y": 0.7426108121871948,
+                "z": -1.52587890625e-05
+            },
+            "script": "http://mpassets.highfidelity.com/1cbf7de7-e272-4ae6-aa1e-0c88968d5204-v1/DynamicLightingZone.js",
+            "scriptTimestamp": 1536089165429,
+            "shapeType": "box",
+            "skybox": {
+                "url": "http://mpassets.highfidelity.com/1cbf7de7-e272-4ae6-aa1e-0c88968d5204-v1/OverbrightSunny.jpg"
+            },
+            "skyboxMode": "enabled",
+            "type": "Zone",
+            "userData": "{\"grabbableKey\":{\"grabbable\":false},\"lighting\":{\"exposure\":1}}"
+        }
+    ],
+    "Id": "{5822eb73-3a53-4d4a-9a85-060e045c9c77}",
+    "Version": 92
+}
