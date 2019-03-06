@@ -1,3 +1,5 @@
+![](https://img.shields.io/badge/status-stale-orange.svg)
+
 # High Fidelity: Sunny Skybox
 
 This is a preset zone for [High Fidelity](https://highfidelity.com) which includes a high-resolution skybox and
